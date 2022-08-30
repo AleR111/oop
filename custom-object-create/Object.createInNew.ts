@@ -12,4 +12,4 @@ console.log(objectCreate({ a: 1 }));
 //master333
 //new master
 //new new master
-//masterito
+//masteritosss
