@@ -9,3 +9,4 @@ function objectCreate(obj) {
 console.log(objectCreate({ a: 1 }));
 //master111
 //master222
+//master333
